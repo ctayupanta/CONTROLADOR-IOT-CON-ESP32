@@ -6,8 +6,8 @@
 #endif
 #include "fauxmoESP.h"
 
-#define WIFI_SSID "NETLIFE-TAYU"
-#define WIFI_PASS "0940192214"
+#define WIFI_SSID "ELINGETAYU"
+#define WIFI_PASS "0123456789"
 #define SERIAL_BAUDRATE 115200
 
 // DEVICES 
